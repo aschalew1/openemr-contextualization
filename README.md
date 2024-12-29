@@ -1,2 +1,2 @@
-# openemr-customization
-Customizing openEMR for Ethiopian healthcare information systems (CloudCareEthiopia)
+# openemr-contextualization
+Contextualizing openEMR to Ethiopian healthcare information systems context and region specific (CloudCareEthiopia)
